@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">TesteTab2</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="text_fragment_a">Esta é a Fragment A da Tab A</string>
+    <string name="text_fragment_b">Esta é a Fragment B da Tab B</string>
+
+</resources>
